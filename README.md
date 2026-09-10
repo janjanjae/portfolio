@@ -97,7 +97,7 @@
 ## 📬 Contact
 
 - **GitHub**: [github.com/janjanjae](https://github.com/janjanjae)
-- **Email**: `00younyoung@naver.com`
+- **Email**: `00younyoung@gmail.com`
 
 ---
 
